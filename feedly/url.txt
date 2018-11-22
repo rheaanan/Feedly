@@ -1,0 +1,148 @@
+World / U.S. News
+
+
+
+CNN.com
+http://rss.cnn.com/rss/cnn_topstories.rss
+
+New York Times Home Page
+http://feeds.nytimes.com/nyt/rss/HomePage
+
+Washington Post: Today's Highlights 
+http://www.washingtonpost.com/rss/
+
+AP Top U.S. News
+http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=RANDOM&SECTION=HOME
+
+USATODAY.com News - Top Stories
+http://rssfeeds.usatoday.com/usatoday-NewsTopStories
+
+NPR Topics: News
+http://www.npr.org/rss/rss.php?id=1001
+
+
+
+
+Education News
+
+News - Utah Education Network
+http://www.uen.org/feeds/rss/news.xml.php
+
+U.S. Department of Education
+https://www.ed.gov/feed
+
+ASCD SmartBrief
+http://www.smartbrief.com/servlet/rss?b=ASCD
+
+
+
+
+
+Science
+
+AP Top Science News
+http://hosted.ap.org/lineups/SCIENCEHEADS-rss_2.0.xml?SITE=OHLIM&SECTION=HOME
+
+ScienceDaily Headlines
+http://feeds.sciencedaily.com/sciencedaily
+
+news@nature.com
+http://feeds.nature.com/nature/rss/current
+
+NASA Image of the Day
+http://www.nasa.gov/rss/image_of_the_day.rss
+
+
+Technology
+
+TechLEARNing.com
+http://www.techlearning.com/RSS
+
+Wired Top Stories
+http://feeds.wired.com/wired/index
+
+New York Times - Technology
+http://feeds.nytimes.com/nyt/rss/Technology
+
+NPR: Technology
+http://www.npr.org/rss/rss.php?id=1019
+
+TIME.com Gadget of the Week
+http://feeds.feedburner.com/time/gadgetoftheweek
+
+Surfing the Net with Kids
+http://feeds.surfnetkids.com/SurfingTheNetWithKids
+
+Macworld
+http://rss.macworld.com/macworld/feeds/main
+
+PC World Magazine Latest News
+http://feeds.pcworld.com/pcworld/latestnews
+
+Techworld.com
+http://www.techworld.com/news/rss
+
+
+
+PBS
+
+Frontline 
+http://feeds.feedburner.com/FrontlineEditorsNotes
+
+Nova
+http://www.pbs.org/wgbh/nova/rss/nova.xml
+
+
+For Kids
+
+Dictionary.com Word of the Day 
+http://dictionary.reference.com/wordoftheday/wotd.rss
+
+
+
+
+Sports
+
+AP Top Sports News
+http://hosted.ap.org/lineups/SPORTSHEADS-rss_2.0.xml?SITE=VABRM&SECTION=HOME
+
+Sports Illustrated
+http://www.si.com/rss/si_topstories.rss
+
+New York Times - Sports
+http://feeds1.nytimes.com/nyt/rss/Sports
+
+NBA.com - Jazz News
+http://www.nba.com/jazz/rss.xml
+Back to Top
+
+
+
+Entertainment
+
+NPR Topics - Arts & Culture
+http://www.npr.org/rss/rss.php?id=1008
+
+New Yorker Humor
+http://www.newyorker.com/feed/humor
+
+NPR Fresh Air with Terry Gross
+http://www.npr.org/rss/rss.php?id=13
+
+NPR Topics: Movies
+http://www.npr.org/rss/rss.php?id=1045
+
+National Geographic Adventure
+http://www.nationalgeographic.com/adventure/nga.xml
+
+
+Photos
+
+The Daily Puppy 
+http://feeds.feedburner.com/TheDailyPuppy
+David Kleinert Photography 
+http://davidkphotography.com/index.php?x=rss
+Animal of the Day
+http://feeds.feedburner.com/animals
+
+

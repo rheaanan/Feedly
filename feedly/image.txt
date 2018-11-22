@@ -1,0 +1,1 @@
+./assets/deer.jpg;./assets/beach.jpg;./assets/lake.jpg;./assets/bike.jpg;./assets/city.jpg;./assets/colors.jpg

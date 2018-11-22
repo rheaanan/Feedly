@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+  <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sign Up Form</title>
+        <link href='http://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+
+      <form action="index.php" method="post">
+      
+        <h1>Sign Up</h1>
+        
+        <fieldset>
+          <legend><span class="number">1</span>Your basic info</legend>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="user_name">
+          
+          <label for="mail">Email:</label>
+          <input type="email" id="mail" name="user_email">
+          
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="user_password">
+          
+          <label>Age:</label>
+          <input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 13</label><br>
+          <input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">13 or older</label>
+        </fieldset>
+        
+        <fieldset>
+          <legend><span class="number">2</span>Your profile</legend>
+          <label for="bio">Biography:</label>
+          <textarea id="bio" name="user_bio"></textarea>
+        </fieldset>
+		
+		
+        <fieldset>
+		<label for="World News">World News</label>
+        <select name="fieldWorldNews" id="World News">
+		  <option selected value="none">none</option>
+            <option value="CNN">CNN</option>
+            <option value="New York Times">New York Times</option>
+            <option value="Washington Post">Washington Post</option>
+            <option value="AP Top U.S. News">AP Top U.S. News</option>
+            <option value="USATODAY">USATODAY</option>
+            <option value="NPR Topics">NPR Topics</option>
+		  </select>
+		  
+		  
+		  
+		  <label for="Education News">Education News</label>
+		 <select id="Education News" name="fieldEducationNews">
+		  <option selected value="none">none</option>
+            <option value="News - Utah Education Network">News - Utah Education Network</option>
+            <option value="U.S. Department of Education">U.S. Department of Education</option>
+            <option value="ASCD SmartBrief">ASCD SmartBrief</option>
+		  </select>
+		  
+		  
+		  
+		  <label for="Science">Science</label>
+		  <select id="Science" name="fieldScience">
+		  <option selected value="none">none</option>
+            <option value="AP Top Science News">AP Top Science News</option>
+            <option value="ScienceDaily Headlines">ScienceDaily Headlines</option>
+			<option value="news@nature">news@nature</option>
+			<option value="NASA Image of the Day">NASA Image of the Day</option>
+		  </select>
+		  
+		  
+		  <label for="Technology">Technology</label>
+		  <select id="Technology" name="fieldTechnology">
+		  <option selected value="none">none</option>
+            <option value="TechLEARNing">TechLEARNing</option>
+            <option value="Wired Top Stories">Wired Top Stories</option>
+			<option value="New York Times - Technology">New York Times - Technology</option>
+			<option value="NPR: Technology">NPR: Technology</option>
+			<option value="Macworld">Macworld</option>
+		  </select>
+		  
+		  
+		  <label for="Sports">Sports</label>
+		  <select id="Sports" name="fieldSports">
+		  <option selected value="none">none</option>
+            <option value="AP Top Sports News">AP Top Sports News</option>
+            <option value="Sports Illustrated">Sports Illustrated</option>
+			<option value="New York Times - Sports">New York Times - Sports</option>
+			<option value="NBA">NBA</option>
+		  </select>
+		  
+		  
+		  <label for="Entertainment">Entertainment</label>
+		  <select id="Entertainment" name="fieldEntertainment">		 
+		  <option selected value="none" >none</option>
+            <option value="NPR Topics - Arts & Culture">NPR Topics - Arts & Culture</option>
+            <option value="New Yorker Humor">New Yorker Humor</option>
+			<option value="National Geographic Adventure">NPR Fresh Air with Terry Gross</option>	  		  
+          </select>
+        
+        </fieldset>
+        <button type="submit">Sign Up</button>
+      </form>
+      
+    </body>
+</html>
